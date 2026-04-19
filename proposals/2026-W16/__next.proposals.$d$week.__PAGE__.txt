@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[93869,["/paper-daily-site/_next/static/chunks/0u8r51s9xyykl.js","/paper-daily-site/_next/static/chunks/0d3shmwh5_nmn.js","/paper-daily-site/_next/static/chunks/0eajwm.uf2h.~.js","/paper-daily-site/_next/static/chunks/0qgaiti42j66l.js"],"ProposalWeekContent"]
+3:I[97367,["/paper-daily-site/_next/static/chunks/0u8r51s9xyykl.js","/paper-daily-site/_next/static/chunks/0d3shmwh5_nmn.js","/paper-daily-site/_next/static/chunks/0eajwm.uf2h.~.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"week":"2026-W16","data":{"week":"2026-W16","dateRange":"04-17","dates":["2026-04-17"],"daily_groups":[{"date":"2026-04-17","generated_at":"2026-04-17T17:30:03+00:00","proposals":[]}],"total":0,"pending":0,"approved":0,"drafted":0},"dates":["2026-04-17","2026-04-16","2026-04-15","2026-04-14","2026-04-13"],"weeks":[{"week":"2026-W16","dateRange":"04-13 ~ 04-17","days":["2026-04-13","2026-04-14","2026-04-15","2026-04-16","2026-04-17"]}],"proposalWeeks":["NaN-WNaN","2026-W16"]}],[["$","script","script-0",{"src":"/paper-daily-site/_next/static/chunks/0qgaiti42j66l.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CH7QW8TExBpH2R9CnsKlz"}
+5:null

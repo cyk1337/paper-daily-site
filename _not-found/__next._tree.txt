@@ -1,0 +1,3 @@
+:HL["/paper-daily-site/_next/static/chunks/04lwh.oi6uj8x.css","style"]
+:HL["/paper-daily-site/_next/static/chunks/0fhcbg7p4i7ol.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"CH7QW8TExBpH2R9CnsKlz"}

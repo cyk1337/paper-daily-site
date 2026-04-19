@@ -1,0 +1,6 @@
+:HL["/paper-daily-site/_next/static/chunks/04lwh.oi6uj8x.css","style"]
+:HL["/paper-daily-site/_next/static/chunks/0fhcbg7p4i7ol.css","style"]
+:HL["/paper-daily-site/_next/static/media/68d403cf9f2c68c5-s.p.0nhx~dwif.9~q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paper-daily-site/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paper-daily-site/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"conference","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"icml-2024","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"CH7QW8TExBpH2R9CnsKlz"}
