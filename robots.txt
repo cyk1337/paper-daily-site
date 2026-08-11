@@ -1,0 +1,5 @@
+# Block all crawlers from indexing this site.
+# This is a personal research dashboard; content is research-internal
+# and not intended to be discovered via search engines.
+User-agent: *
+Disallow: /

@@ -1,0 +1,1302 @@
+1:"$Sreact.fragment"
+2:I[80492,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"ThemeProvider"]
+3:I[27437,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"LocaleProvider"]
+4:I[70119,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"Header"]
+5:I[52627,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"GlobalSearch"]
+6:I[39756,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"default"]
+7:I[37457,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"default"]
+8:I[76533,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"MobileBottomNav"]
+a:I[97367,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+e:I[97367,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"ViewportBoundary"]
+10:I[97367,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"MetadataBoundary"]
+12:I[68027,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"default",1]
+:HL["/paper-daily-site/_next/static/chunks/0m7mqu4bzx6nw.css","style"]
+:HL["/paper-daily-site/_next/static/chunks/0~7p81-4rj9i5.css","style"]
+:HL["/paper-daily-site/_next/static/media/68d403cf9f2c68c5-s.p.0nhx~dwif.9~q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paper-daily-site/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paper-daily-site/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","tag","compressed-attention"],"q":"","i":false,"f":[[["",{"children":["tag",{"children":[["tag","compressed-attention","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/paper-daily-site/_next/static/chunks/0m7mqu4bzx6nw.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/paper-daily-site/_next/static/chunks/0~7p81-4rj9i5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable source_serif_4_320bbcc5-module__ZHainW__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"children":["$","$L3",null,{"children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","div",null,{"className":"flex flex-1 pb-14 lg:pb-0","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{}]]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/paper-daily-site/_next/static/chunks/0v5_lavrfdf4z.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/paper-daily-site/_next/static/chunks/179dxl6eh6~s7.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$L11"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$12",[["$","link","0",{"rel":"stylesheet","href":"/paper-daily-site/_next/static/chunks/0m7mqu4bzx6nw.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/paper-daily-site/_next/static/chunks/0~7p81-4rj9i5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"EvW5GfDrr8T-yLa8QODbj"}
+13:[]
+d:"$W13"
+14:I[8669,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js","/paper-daily-site/_next/static/chunks/0v5_lavrfdf4z.js","/paper-daily-site/_next/static/chunks/179dxl6eh6~s7.js"],"DateSidebar"]
+15:I[22016,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js","/paper-daily-site/_next/static/chunks/0v5_lavrfdf4z.js","/paper-daily-site/_next/static/chunks/179dxl6eh6~s7.js"],""]
+16:I[14726,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js","/paper-daily-site/_next/static/chunks/0v5_lavrfdf4z.js","/paper-daily-site/_next/static/chunks/179dxl6eh6~s7.js"],"TagResultsView"]
+17:T90b,技术方案可以拆成五部分。1）模型骨架：延续 DeepSeekMoE 和 Multi-Token Prediction。也就是说，V4 并没有放弃 V3 系列已经验证过的 MoE 主干和 MTP 训练信号，而是在此基础上重构长上下文路径。这一点很关键，因为它说明作者追求的是在既有大规模 recipe 上做兼容升级，而不是另起炉灶。2）混合注意力：核心是 CSA 与 HCA 的组合。CSA 先沿序列维压缩 KV cache，再做 DeepSeek Sparse Attention；HCA 则做更激进的 KV 压缩，但保留 dense attention。前者偏向在保留选择性访存能力的同时降低长序列成本，后者偏向进一步压缩缓存与计算。两者混用，说明作者不是押注单一稀疏模式，而是在不同层或路径上平衡信息保真与效率。和标准 full attention 相比，关键变化不是只减少 attention score 计算，而是直接重写了长序列下的状态表示方式。3）表示与优化稳定性：引入 mHC（Manifold-Constrained Hyper-Connections）替代普通 residual path，并采用 Muon 优化器。这里的信号很明确：当上下文拉到 1M、模型又是超大 MoE 时，训练难点不只是算力，而是深层网络的优化几何与稳定性。mHC 负责改善信息流与表示约束，Muon 负责更快收敛和更稳训练。4）训练系统：他们做了单 fused MoE kernel，把计算、通信、访存尽量重叠；用 TileLang 平衡内核开发效率与性能；提供 batch-invariant、deterministic kernel 保证 bitwise reproducibility；在 autograd 上扩展 tensor-level checkpointing 做细粒度重计算；再配合 hybrid ZeRO、两阶段 contextual parallelism 去管理压缩注意力。这部分不是附属工程，而是方法成立的必要条件，因为 1M context 下很多理论节省如果不能转化为可并行、可复现、可重计算的实现，就无法进入稳定预训练。5）推理与后训练效率：推理侧设计 heterogeneous KV cache 和磁盘存储策略，用于 shared-prefix reuse；后训练阶段对 MoE expert weights 和 indexer QK path 做 FP4 quantization-aware training，继续压缩显存与计算。这里能看出 V4 的设计目标不是“训练时长上下文，推理时再说”，而是从一开始就把 serving 约束纳入基座设计。18:T6e2,The method has five main components. First, the backbone keeps DeepSeekMoE and Multi-Token Prediction, which signals continuity with an already validated large-scale recipe rather than a wholesale paradigm shift. Second, the key architectural change is a hybrid attention design combining Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA). CSA compresses KV caches along the sequence dimension and then applies DeepSeek Sparse Attention, aiming to reduce long-sequence cost while retaining selective access. HCA compresses KV more aggressively but keeps dense attention, trading more compression for a simpler attention pattern. The combination suggests that no single compression mode is sufficient across the stack. Third, the model introduces Manifold-Constrained Hyper-Connections (mHC) in place of standard residual pathways and adopts the Muon optimizer. This is important because at 1M context and trillion-scale MoE size, optimization geometry and training stability become first-order concerns. Fourth, the training system is heavily engineered: a single fused MoE kernel overlaps compute, communication, and memory access; TileLang is used as a DSL for productivity/performance balance; deterministic, batch-invariant kernels are provided for bitwise reproducibility; tensor-level checkpointing extends autograd for fine-grained recomputation; hybrid ZeRO and two-stage contextual parallelism are used to manage compressed attention efficiently. Fifth, inference and post-training are also co-designed: heterogeneous KV-cache structures with on-disk storage enable shared-prefix reuse, and FP4 quantization-aware training is applied to MoE expert weights and the indexer QK path during post-training to reduce memory and compute.19:T4a6,The most informative numbers are straightforward. DeepSeek-V4-Pro has 1.6T total parameters with 49B activated; DeepSeek-V4-Flash has 284B total with 13B activated. Flash is pretrained on 32T tokens and Pro on 33T tokens, both with native support for 1M context. In the 1M-token setting, V4-Pro uses only 27% of the single-token inference FLOPs of DeepSeek-V3.2 and 10% of its KV-cache size. V4-Flash pushes this further to 10% of the FLOPs and 7% of the KV-cache size. These are the headline results because they show that even the larger activated model can be substantially cheaper on the long-context path. On capability, the paper states that Flash-Base already surpasses DeepSeek-V3.2-Base on most benchmarks, while Pro-Base establishes a stronger foundation model across reasoning, coding, long-context, and world knowledge. The post-training pipeline is also notable: domain-specific experts are first trained independently with SFT and RL, then consolidated through on-policy distillation. The key experimental takeaway is that the efficiency gain does not appear to come with an obvious collapse in base capability, which is the usual risk in aggressive long-context optimization.1a:T40e,Start with the introduction and Figure 1. The right question is not 'does it support 1M context?' but 'what exactly becomes cheaper at 1M context?' Then read the hybrid attention section carefully: what is compressed in CSA versus HCA, where sparse versus dense attention is retained, and why both are needed. After that, focus on mHC and Muon. The useful question is whether they are optional improvements or necessary stabilizers for trillion-scale long-context training. The systems section is worth close reading if you care about real pretraining: fused MoE kernels, tensor-level checkpointing, contextual parallelism, and deterministic kernels are all practical enablers rather than side notes. Finally, inspect the long-context efficiency plots and the base-model comparison tables. The main thing to verify is whether lower FLOPs, smaller KV cache, and stronger base capability hold simultaneously. If time is limited, read Figure 1, the attention-design section, the systems section, and the main base/long-context result tables.1b:T546b,We present a preview version of DeepSeek-V4 series, including two strong Mixture-of- Experts (MoE) language models — DeepSeek-V4-Pro with 1.6T parameters (49B activated) and DeepSeek-V4-Flash with 284B parameters (13B activated) — both supporting a context length of one million tokens. DeepSeek-V4 series incorporate several key upgrades in architecture and op- timization: (1) a hybrid attention architecture that combines Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA) to improve long-context efficiency; (2) Manifold- Constrained Hyper-Connections (mHC) that enhance conventional residual connections; (3) and the Muon optimizer for faster convergence and greater training stability. We pre-train both models on more than 32T diverse and high-quality tokens, followed by a comprehensive post-training pipeline that unlocks and further enhances their capabilities. DeepSeek-V4-Pro- Max, the maximum reasoning effort mode of DeepSeek-V4-Pro, redefines the state-of-the-art for open models, outperforming its predecessors in core tasks. Meanwhile, DeepSeek-V4 series are highly efficient in long-context scenarios. In the one-million-token context setting, DeepSeek- V4-Pro requires only 27% of single-token inference FLOPs and 10% of KV cache compared with DeepSeek-V3.2. This enables us to routinely support one-million-token contexts, thereby making long-horizon tasks and further test-time scaling more feasible. The model checkpoints are available at https://huggingfa
+
+DeepSeek-V4:
+Towards Highly Efficient Million-Token Context Intelligence
+DeepSeek-AI
+research@deepseek.com
+Abstract
+We present a preview version of DeepSeek-V4 series, including two strong Mixture-of-
+Experts (MoE) language models — DeepSeek-V4-Pro with 1.6T parameters (49B activated) and
+DeepSeek-V4-Flash with 284B parameters (13B activated) — both supporting a context length of
+one million tokens. DeepSeek-V4 series incorporate several key upgrades in architecture and op-
+timization: (1) a hybrid attention architecture that combines Compressed Sparse Attention (CSA)
+and Heavily Compressed Attention (HCA) to improve long-context efficiency; (2) Manifold-
+Constrained Hyper-Connections (mHC) that enhance conventional residual connections; (3)
+and the Muon optimizer for faster convergence and greater training stability. We pre-train
+both models on more than 32T diverse and high-quality tokens, followed by a comprehensive
+post-training pipeline that unlocks and further enhances their capabilities. DeepSeek-V4-Pro-
+Max, the maximum reasoning effort mode of DeepSeek-V4-Pro, redefines the state-of-the-art for
+open models, outperforming its predecessors in core tasks. Meanwhile, DeepSeek-V4 series are
+highly efficient in long-context scenarios. In the one-million-token context setting, DeepSeek-
+V4-Pro requires only 27% of single-token inference FLOPs and 10% of KV cache compared
+with DeepSeek-V3.2. This enables us to routinely support one-million-token contexts, thereby
+making long-horizon tasks and further test-time scaling more feasible. The model checkpoints
+are available at https://huggingface.co/collections/deepseek-ai/deepseek-v4.
+SimpleQA
+Verified
+(Pass@1)
+HLE
+(Pass@1)
+Apex
+Shortlist
+(Pass@1)
+Codeforces
+(Rating)
+SWE
+Verified
+(Resolved)
+Terminal
+Bench 2.0
+(Acc)
+Toolathlon
+(Pass@1)
+0
+20
+40
+60
+80
+100
+Accuracy / Pass@1 (%)
+57.9
+46.245.3
+75.6
+37.7
+40.039.8
+44.4
+90.2
+85.9
+78.1
+89.1
+32063168
+3052
+80.680.880.6
+67.9
+65.4
+75.1
+68.5
+51.8
+47.2
+54.6
+48.8
+Knowledge & Reasoning
+Agentic Capabilities
+DeepSeek-V4-Pro-Max
+Claude-Opus-4.6-Max
+GPT-5.4-xHigh
+Gemini-3.1-Pro-High
+0
+256
+512
+768
+1024
+Token Position (K)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+Single-Token FLOPs (T)
+3.7× lower
+9.8× lower
+DeepSeek-V3.2
+DeepSeek-V4-Pro
+DeepSeek-V4-Flash
+0
+256
+512
+768
+1024
+Sequence Length (K)
+0
+10
+20
+30
+40
+50
+Accumulated KV Cache (GB)
+9.5× smaller
+13.7× smaller
+DeepSeek-V3.2
+DeepSeek-V4-Pro
+DeepSeek-V4-Flash
+Figure 1 | Left: benchmark performance of DeepSeek-V4-Pro-Max and its counterparts. Right:
+inference FLOPs and KV cache size of DeepSeek-V4 series and DeepSeek-V3.2.
+
+Contents
+1
+Introduction
+4
+2
+Architecture
+6
+2.1
+Designs Inherited from DeepSeek-V3 . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+2.2
+Manifold-Constrained Hyper-Connections
+. . . . . . . . . . . . . . . . . . . . . .
+7
+2.3
+Hybrid Attention with CSA and HCA . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+2.3.1
+Compressed Sparse Attention . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+2.3.2
+Heavily Compressed Attention . . . . . . . . . . . . . . . . . . . . . . . . .
+11
+2.3.3
+Other Details
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+2.3.4
+Efficiency Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.4
+Muon Optimizer
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+3
+General Infrastructures
+15
+3.1
+Fine-Grained Communication-Computation Overlap in Expert Parallelism . . . .
+15
+3.2
+Flexible and Efficient Kernel Development with TileLang . . . . . . . . . . . . . .
+16
+3.3
+High-Performance Batch-Invariant and Deterministic Kernel Libraries . . . . . .
+18
+3.4
+FP4 Quantization-Aware Training . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+3.5
+Training Framework
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+20
+3.5.1
+Efficient Implementation of Muon . . . . . . . . . . . . . . . . . . . . . . .
+20
+3.5.2
+Cost-Effective and Memory-Efficient Implementation of mHC . . . . . . .
+21
+3.5.3
+Contextual Parallelism for Long-Context Attention
+. . . . . . . . . . . . .
+21
+3.5.4
+Extended Automatic Differentiation for Flexible Activation Checkpointing 21
+3.6
+Inference Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+3.6.1
+KV Cache Structure and Management . . . . . . . . . . . . . . . . . . . . .
+22
+3.6.2
+On-Disk KV Cache Storage . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+4
+Pre-Training
+24
+4.1
+Data Construction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+4.2
+Pre-Training Setups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+4.2.1
+Model Setups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+4.2.2
+Training Setups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+4.2.3
+Mitigating Training Instability
+. . . . . . . . . . . . . . . . . . . . . . . . .
+26
+4.3
+Evaluations
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+4.3.1
+Evaluation Benchmarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+4.3.2
+Evaluation Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+2
+
+5
+Post-Training
+29
+5.1
+Post-Training Pipeline
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+5.1.1
+Specialist Training
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+5.1.2
+On-Policy Distillation
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+32
+5.2
+RL and OPD Infrastructures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+34
+5.2.1
+FP4 Quantization Integration . . . . . . . . . . . . . . . . . . . . . . . . . .
+34
+5.2.2
+Efficient Teacher Scheduling for Full-Vocabulary OPD
+. . . . . . . . . . .
+34
+5.2.3
+Preemptible and Fault-Tolerant Rollout Service
+. . . . . . . . . . . . . . .
+34
+5.2.4
+Scaling RL Framework for Million-Token Context . . . . . . . . . . . . . .
+35
+5.2.5
+Sandbox Infrastructure for Agentic AI . . . . . . . . . . . . . . . . . . . . .
+35
+5.3
+Standard Benchmark Evaluation
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+36
+5.3.1
+Evaluation Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+36
+5.3.2
+Evaluation Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+38
+5.4
+Performance on Real-World Tasks
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+41
+5.4.1
+Chinese Writing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+41
+5.4.2
+Search
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+42
+5.4.3
+White-Collar Task . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+42
+5.4.4
+Code Agent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+44
+6
+Conclusion, Limitations, and Future Directions
+44
+A Author List and Acknowledgment
+54
+A.1 Author List . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54
+A.2 Acknowledgment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55
+B
+Evaluation Details
+55
+3
+
+1. Introduction
+The emergence of reasoning models (DeepSeek-AI, 2025; OpenAI, 2024c) has established a
+new paradigm of test-time scaling, driving substantial performance gains for Large Language
+Models (LLMs). However, this scaling paradigm is fundamentally constrained by the quadratic
+computational complexity of the vanilla attention mechanism (Vaswani et al., 2017), which
+creates a prohibitive bottleneck for ultra-long contexts and reasoning processes. Concurrently,
+the emergence of long-horizon scenarios and tasks — from complex agentic workflows to
+massive cross-document analysis — has also made efficient support for ultra-long contexts
+critical for future progress. While recent open-source efforts (Bai et al., 2025a; DeepSeek-AI,
+2024; MiniMax, 2025; Qwen, 2025) have advanced general capabilities, this core architectural
+inefficiency in handling ultra-long sequences remains a key impediment, limiting further gains
+from test-time scaling and hindering further exploration into long-horizon scenarios and tasks.
+In order to break the efficiency barrier in ultra-long contexts, we develop the DeepSeek-V4
+series, including the preview versions of DeepSeek-V4-Pro with 1.6T parameters (49B activated)
+and DeepSeek-V4-Flash with 284B parameters (13B activated). Through architectural innova-
+tions, DeepSeek-V4 series achieve a dramatic leap in computational efficiency for processing
+ultra-long sequences. This breakthrough enables efficient support for a context length of one
+million tokens, ushering in a new era of million-length contexts for next-generation LLMs. We
+believe our capability to efficiently handle ultra-long sequences unlocks the next frontier of
+test-time scaling, paves the way for deeper research into long-horizon tasks, and establishes a
+necessary foundation for exploring future paradigms like online learning.
+Compared with the DeepSeek-V3 architecture (DeepSeek-AI, 2024), DeepSeek-V4 series
+retain the DeepSeekMoE framework (Dai et al., 2024) and Multi-Token Prediction (MTP) strategy,
+while introducing several key innovations in architecture and optimization. To enhance long-
+context efficiency, we design a hybrid attention mechanism combining Compressed Sparse
+Attention (CSA) and Heavily Compressed Attention (HCA). CSA compresses the KV caches
+along the sequence dimension and then performs DeepSeek Sparse Attention (DSA) (DeepSeek-
+AI, 2025), whereas HCA applies more aggressive compression to the KV caches but keeps
+dense attention. To strengthen modeling capability, we incorporate Manifold-Constrained
+Hyper-Connections (mHC) (Xie et al., 2026) that upgrade conventional residual connections.
+Additionally, we introduce the Muon (Jordan et al., 2024; Liu et al., 2025) optimizer to the
+training of DeepSeek-V4 series, leading to faster convergence and improved training stability.
+To enable efficient training and inference for DeepSeek-V4 series as well as productive de-
+velopment, we introduce several infrastructure optimizations. First, we design and implement
+a single fused kernel for MoE modules that fully overlaps computation, communication, and
+memory access. Second, we employ TileLang (Wang et al., 2026), a Domain-Specific Language
+(DSL) to balance development productivity and runtime efficiency. Third, we provide efficient
+batch-invariant and deterministic kernel libraries to ensure bitwise reproducibility across train-
+ing and inference. Fourth, we incorporate FP4 quantization-aware training for MoE expert
+weights and the indexer QK path to reduce memory and computation. Fifth, for the training
+framework, we extend the autograd framework with tensor-level checkpointing for fine-grained
+recomputation control; and we enhance training efficiency with a hybrid ZeRO strategy for the
+Muon optimizer, cost-effective mHC implementations via recomputation and fused kernels, and
+two-stage contextual parallelism to manage compressed attention. Finally, for the inference
+framework, we design a heterogeneous KV cache structure with on-disk storage strategies to
+enable efficient shared-prefix reuse.
+4
+
+By employing hybrid CSA and HCA, along with precision optimizations on computation
+and storage, DeepSeek-V4 series achieve significantly lower inference FLOPs and a substantially
+reduced KV cache size compared with DeepSeek-V3.2, especially in long-context settings. The
+right part of Figure 1 demonstrates the estimated single-token inference FLOPs and accumulated
+KV cache size of DeepSeek-V3.2 and DeepSeek-V4 series. In the scenario of 1M-token context,
+even DeepSeek-V4-Pro, which has a larger number of activated parameters, attains only 27%
+of the single-token FLOPs (measured in equivalent FP8 FLOPs) and 10% of the KV cache
+size relative to DeepSeek-V3.2. Furthermore, DeepSeek-V4-Flash, with its smaller number of
+activated parameters, pushes efficiency even further: in the 1M-token context setting, it achieves
+only 10% of the single-token FLOPs and 7% of the KV cache size compared with DeepSeek-V3.2.
+Additionally, for DeepSeek-V4 series, the routed expert parameters utilize FP4 precision. While
+the peak FLOPs for FP4 × FP8 operations are currently the same as FP8 × FP8 on existing
+hardware, they can theoretically be implemented to be 1/3 more efficient on future hardware,
+which will further enhance the efficiency of DeepSeek-V4 series.
+During pre-training, we train DeepSeek-V4-Flash on 32T tokens and DeepSeek-V4-Pro on 33T
+tokens, respectively. After pre-training, these two models can natively and efficiently support
+1M-length contexts. In our internal evaluations, DeepSeek-V4-Flash-Base already surpasses
+DeepSeek-V3.2-Base across a majority of benchmarks with its more parameter-efficient design.
+DeepSeek-V4-Pro-Base further extends this advantage to set a new performance standard among
+DeepSeek foundation models, achieving comprehensive superiority across reasoning, coding,
+long-context, and world knowledge tasks.
+The post-training pipeline of DeepSeek-V4 series features a two-stage paradigm: the inde-
+pendent cultivation of domain-specific experts, followed by unified model consolidation via
+on-policy distillation (Lu and Lab, 2025). Initially, for each target domain — such as mathematics,
+coding, agent, and instruction following — a separate expert model is trained independently.
+The base model first undergoes Supervised Fine-Tuning (SFT) on high-quality, domain-specific
+data to establish foundational capabilities. Subsequently, Reinforcement Learning (RL) is ap-
+plied using Group Relative Policy Optimization (GRPO) (DeepSeek-AI, 2025), which further
+optimizes the model for domain-aligned behaviors guided by reward models tailored to specific
+success criteria. This phase yields a diverse set of specialized experts, each excelling in its
+respective field. Finally, to integrate these distinct proficiencies, a single unified model is trained
+through on-policy distillation, wherein the unified model acts as the student learning to optimize
+the reverse KL loss with teacher models.
+Summary of Core Evaluation Results
+• Knowledge: In assessments of broad world knowledge, DeepSeek-V4-Pro-Max, the maxi-
+mum reasoning effort mode of DeepSeek-V4-Pro, significantly outperforms leading open-
+source models on the SimpleQA (OpenAI, 2024d) and Chinese-SimpleQA (He et al., 2024)
+benchmarks. Regarding educational knowledge — evaluated via MMLU-Pro (Wang et al.,
+2024b), HLE (Phan et al., 2025), and GPQA (Rein et al., 2023) — DeepSeek-V4-Pro-Max
+shows a marginal lead over its open-source counterparts. DeepSeek-V4-Pro-Max has
+significantly closed the gap with the leading proprietary model, Gemini-3.1-Pro, despite
+still trailing it in these knowledge-based evaluations.
+• Reasoning: Through the expansion of reasoning tokens, DeepSeek-V4-Pro-Max demon-
+strates superior performance relative to GPT-5.2 and Gemini-3.0-Pro on standard reasoning
+benchmarks. Nevertheless, its performance falls marginally short of GPT-5.4 and Gemini-
+3.1-Pro, suggesting a developmental trajectory that trails state-of-the-art frontier models by
+approximately 3 to 6 months. Furthermore, DeepSeek-V4-Flash-Max achieves comparable
+5
+
+Input Tokens
+Embedding
+CSA / HCA
+Prediction Head
+MTP Modules
+LM Loss
+MTP Loss
+Residual Mixing
+Pre-Block Mixing
+Post-Block Mixing
+Transformer Block ×𝐿𝐿
+DeepSeekMoE
+Residual Mixing
+Pre-Block Mixing
+Post-Block Mixing
+Figure 2 | Overall architecture of DeepSeek-V4 series. We use hybrid CSA (Compressed Sparse
+Attention) and HCA (Heavily Compressed Attention) for attention layers, DeepSeekMoE for
+feed-forward layers, and strengthen conventional residual connections with mHC.
+performance to GPT-5.2 and Gemini-3.0-Pro, establishing itself as a highly cost-effective
+architecture for complex reasoning tasks.
+• Agent: On public benchmarks, DeepSeek-V4-Pro-Max is on par with leading open-source
+models, such as Kimi-K2.6 and GLM-5.1, but slightly worse than frontier closed models.
+In our internal evaluation, DeepSeek-V4-Pro-Max outperforms Claude Sonnet 4.5 and
+approaches the level of Opus 4.5.
+• Long-Context: DeepSeek-V4-Pro-Max delivers strong results on synthetic and real use
+cases with a 1-million-token context window, surpassing even Gemini-3.1-Pro on academic
+benchmarks.
+• DeepSeek-V4-Pro v.s. DeepSeek-V4-Flash: DeepSeek-V4-Flash-Max exhibits lower per-
+formance in knowledge evaluations due to its smaller parameter scale. However, it
+achieves comparable results on reasoning tasks when allocated a larger thinking bud-
+get. In agent evaluations, while DeepSeek-V4-Flash-Max matches the performance of
+DeepSeek-V4-Pro-Max on several benchmarks, it still trails its larger counterpart on more
+complex, high-difficulty tasks.
+2. Architecture
+Overall, DeepSeek-V4 series retain the Transformer (Vaswani et al., 2017) architecture and Multi-
+Token Prediction (MTP) modules (DeepSeek-AI, 2024; Gloeckle et al., 2024), while introducing
+several key upgrades over DeepSeek-V3: (1) firstly, we introduce the Manifold-Constrained
+Hyper-Connections (mHC) (Xie et al., 2026) to strengthen conventional residual connections;
+6
+
+(2) secondly, we design a hybrid attention architecture, which greatly improves long-context
+efficiency through Compressed Sparse Attention and Heavily Compressed Attention. (3) thirdly,
+we employ Muon (Jordan et al., 2024; Liu et al., 2025) as the optimizer. For the Mixture-of-
+Experts (MoE) components, we still adopt the DeepSeekMoE (Dai et al., 2024) architecture, with
+only minor adjustments from DeepSeek-V3. The Multi-Token Prediction (MTP) (DeepSeek-AI,
+2024; Gloeckle et al., 2024; Li et al., 2024; Qi et al., 2020) configuration remains identical to
+that of DeepSeek-V3. All other unspecified details follow the settings established in DeepSeek-
+V3 (DeepSeek-AI, 2024). Figure 2 illustrates the overall architecture of DeepSeek-V4, and the
+details are described below.
+2.1. Designs Inherited from DeepSeek-V3
+Mixture-of-Experts.
+As previous DeepSeek-series models (DeepSeek-AI, 2024; DeepSeek-AI,
+2024), DeepSeek-V4 series also adopt the DeepSeekMoE paradigm (Dai et al., 2024) for Feed-
+Forward Networks (FFNs), which sets fine-grained routed experts and shared experts. Different
+from DeepSeek-V3, we change the activation function that computes the affinity scores from
+Sigmoid(·) into Sqrt(Softplus(·)). For load balancing, we also employ the auxiliary-loss-free
+strategy (DeepSeek-AI, 2024; Wang et al., 2024a), augmented by a slight sequence-wise balance
+loss that prevents extreme imbalance within individual sequences. For DeepSeek-V4, we remove
+the constraint on the number of routing target nodes, and carefully redesign the parallelism
+strategy to maintain training efficiency. Furthermore, compared with DeepSeek-V3, we replace
+the dense FFN layers in the initial several Transformer blocks with MoE layers that employ
+Hash routing (Roller et al., 2021). The Hash routing strategy determines the target experts of
+each token according to a predefined hash function with regard to the input token ID.
+Multi-Token Prediction.
+As DeepSeek-V3, DeepSeek-V4 series also set MTP modules and
+objectives. Given that the MTP strategy has been validated in DeepSeek-V3, we adopt the same
+strategy for DeepSeek-V4 series without modification.
+2.2. Manifold-Constrained Hyper-Connections
+As shown in Figure 2, DeepSeek-V4 series incorporate Manifold-Constrained Hyper-Connections
+(mHC) (Xie et al., 2026) to strengthen the conventional residual connections between adjacent
+Transformer blocks. Compared with naive Hyper-Connections (HC) (Zhu et al., 2025), the core
+idea of mHC is to constrain the residual mapping onto a specific manifold, and thus enhance the
+stability of signal propagation across layers while preserving model expressivity. This subsection
+briefly introduces the standard HC and describes how we design mHC for stable training.
+Standard Hyper-Connections.
+The standard HC expands the width of the residual
+
+[Sharer note] @_user_1 /add-papers DeepSeek-V4 技术报告：1c:T5e0,We present a preview version of DeepSeek-V4 series, including two strong Mixture-of- Experts (MoE) language models — DeepSeek-V4-Pro with 1.6T parameters (49B activated) and DeepSeek-V4-Flash with 284B parameters (13B activated) — both supporting a context length of one million tokens. DeepSeek-V4 series incorporate several key upgrades in architecture and op- timization: (1) a hybrid attention architecture that combines Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA) to improve long-context efficiency; (2) Manifold- Constrained Hyper-Connections (mHC) that enhance conventional residual connections; (3) and the Muon optimizer for faster convergence and greater training stability. We pre-train both models on more than 32T diverse and high-quality tokens, followed by a comprehensive post-training pipeline that unlocks and further enhances their capabilities. DeepSeek-V4-Pro- Max, the maximum reasoning effort mode of DeepSeek-V4-Pro, redefines the state-of-the-art for open models, outperforming its predecessors in core tasks. Meanwhile, DeepSeek-V4 series are highly efficient in long-context scenarios. In the one-million-token context setting, DeepSeek- V4-Pro requires only 27% of single-token inference FLOPs and 10% of KV cache compared with DeepSeek-V3.2. This enables us to routinely support one-million-token contexts, thereby making long-horizon tasks and further test-time scaling more feasible. The model checkpoints are available at https://huggingfa1d:T7c79,DeepSeek-V4:
+Towards Highly Efficient Million-Token Context Intelligence
+DeepSeek-AI
+research@deepseek.com
+Abstract
+We present a preview version of DeepSeek-V4 series, including two strong Mixture-of-
+Experts (MoE) language models — DeepSeek-V4-Pro with 1.6T parameters (49B activated) and
+DeepSeek-V4-Flash with 284B parameters (13B activated) — both supporting a context length of
+one million tokens. DeepSeek-V4 series incorporate several key upgrades in architecture and op-
+timization: (1) a hybrid attention architecture that combines Compressed Sparse Attention (CSA)
+and Heavily Compressed Attention (HCA) to improve long-context efficiency; (2) Manifold-
+Constrained Hyper-Connections (mHC) that enhance conventional residual connections; (3)
+and the Muon optimizer for faster convergence and greater training stability. We pre-train
+both models on more than 32T diverse and high-quality tokens, followed by a comprehensive
+post-training pipeline that unlocks and further enhances their capabilities. DeepSeek-V4-Pro-
+Max, the maximum reasoning effort mode of DeepSeek-V4-Pro, redefines the state-of-the-art for
+open models, outperforming its predecessors in core tasks. Meanwhile, DeepSeek-V4 series are
+highly efficient in long-context scenarios. In the one-million-token context setting, DeepSeek-
+V4-Pro requires only 27% of single-token inference FLOPs and 10% of KV cache compared
+with DeepSeek-V3.2. This enables us to routinely support one-million-token contexts, thereby
+making long-horizon tasks and further test-time scaling more feasible. The model checkpoints
+are available at https://huggingface.co/collections/deepseek-ai/deepseek-v4.
+SimpleQA
+Verified
+(Pass@1)
+HLE
+(Pass@1)
+Apex
+Shortlist
+(Pass@1)
+Codeforces
+(Rating)
+SWE
+Verified
+(Resolved)
+Terminal
+Bench 2.0
+(Acc)
+Toolathlon
+(Pass@1)
+0
+20
+40
+60
+80
+100
+Accuracy / Pass@1 (%)
+57.9
+46.245.3
+75.6
+37.7
+40.039.8
+44.4
+90.2
+85.9
+78.1
+89.1
+32063168
+3052
+80.680.880.6
+67.9
+65.4
+75.1
+68.5
+51.8
+47.2
+54.6
+48.8
+Knowledge & Reasoning
+Agentic Capabilities
+DeepSeek-V4-Pro-Max
+Claude-Opus-4.6-Max
+GPT-5.4-xHigh
+Gemini-3.1-Pro-High
+0
+256
+512
+768
+1024
+Token Position (K)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+Single-Token FLOPs (T)
+3.7× lower
+9.8× lower
+DeepSeek-V3.2
+DeepSeek-V4-Pro
+DeepSeek-V4-Flash
+0
+256
+512
+768
+1024
+Sequence Length (K)
+0
+10
+20
+30
+40
+50
+Accumulated KV Cache (GB)
+9.5× smaller
+13.7× smaller
+DeepSeek-V3.2
+DeepSeek-V4-Pro
+DeepSeek-V4-Flash
+Figure 1 | Left: benchmark performance of DeepSeek-V4-Pro-Max and its counterparts. Right:
+inference FLOPs and KV cache size of DeepSeek-V4 series and DeepSeek-V3.2.
+
+Contents
+1
+Introduction
+4
+2
+Architecture
+6
+2.1
+Designs Inherited from DeepSeek-V3 . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+2.2
+Manifold-Constrained Hyper-Connections
+. . . . . . . . . . . . . . . . . . . . . .
+7
+2.3
+Hybrid Attention with CSA and HCA . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+2.3.1
+Compressed Sparse Attention . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+2.3.2
+Heavily Compressed Attention . . . . . . . . . . . . . . . . . . . . . . . . .
+11
+2.3.3
+Other Details
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+2.3.4
+Efficiency Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.4
+Muon Optimizer
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+3
+General Infrastructures
+15
+3.1
+Fine-Grained Communication-Computation Overlap in Expert Parallelism . . . .
+15
+3.2
+Flexible and Efficient Kernel Development with TileLang . . . . . . . . . . . . . .
+16
+3.3
+High-Performance Batch-Invariant and Deterministic Kernel Libraries . . . . . .
+18
+3.4
+FP4 Quantization-Aware Training . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+3.5
+Training Framework
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+20
+3.5.1
+Efficient Implementation of Muon . . . . . . . . . . . . . . . . . . . . . . .
+20
+3.5.2
+Cost-Effective and Memory-Efficient Implementation of mHC . . . . . . .
+21
+3.5.3
+Contextual Parallelism for Long-Context Attention
+. . . . . . . . . . . . .
+21
+3.5.4
+Extended Automatic Differentiation for Flexible Activation Checkpointing 21
+3.6
+Inference Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+3.6.1
+KV Cache Structure and Management . . . . . . . . . . . . . . . . . . . . .
+22
+3.6.2
+On-Disk KV Cache Storage . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+4
+Pre-Training
+24
+4.1
+Data Construction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+4.2
+Pre-Training Setups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+4.2.1
+Model Setups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+4.2.2
+Training Setups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+4.2.3
+Mitigating Training Instability
+. . . . . . . . . . . . . . . . . . . . . . . . .
+26
+4.3
+Evaluations
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+4.3.1
+Evaluation Benchmarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+4.3.2
+Evaluation Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+2
+
+5
+Post-Training
+29
+5.1
+Post-Training Pipeline
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+5.1.1
+Specialist Training
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+5.1.2
+On-Policy Distillation
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+32
+5.2
+RL and OPD Infrastructures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+34
+5.2.1
+FP4 Quantization Integration . . . . . . . . . . . . . . . . . . . . . . . . . .
+34
+5.2.2
+Efficient Teacher Scheduling for Full-Vocabulary OPD
+. . . . . . . . . . .
+34
+5.2.3
+Preemptible and Fault-Tolerant Rollout Service
+. . . . . . . . . . . . . . .
+34
+5.2.4
+Scaling RL Framework for Million-Token Context . . . . . . . . . . . . . .
+35
+5.2.5
+Sandbox Infrastructure for Agentic AI . . . . . . . . . . . . . . . . . . . . .
+35
+5.3
+Standard Benchmark Evaluation
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+36
+5.3.1
+Evaluation Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+36
+5.3.2
+Evaluation Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+38
+5.4
+Performance on Real-World Tasks
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+41
+5.4.1
+Chinese Writing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+41
+5.4.2
+Search
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+42
+5.4.3
+White-Collar Task . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+42
+5.4.4
+Code Agent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+44
+6
+Conclusion, Limitations, and Future Directions
+44
+A Author List and Acknowledgment
+54
+A.1 Author List . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54
+A.2 Acknowledgment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55
+B
+Evaluation Details
+55
+3
+
+1. Introduction
+The emergence of reasoning models (DeepSeek-AI, 2025; OpenAI, 2024c) has established a
+new paradigm of test-time scaling, driving substantial performance gains for Large Language
+Models (LLMs). However, this scaling paradigm is fundamentally constrained by the quadratic
+computational complexity of the vanilla attention mechanism (Vaswani et al., 2017), which
+creates a prohibitive bottleneck for ultra-long contexts and reasoning processes. Concurrently,
+the emergence of long-horizon scenarios and tasks — from complex agentic workflows to
+massive cross-document analysis — has also made efficient support for ultra-long contexts
+critical for future progress. While recent open-source efforts (Bai et al., 2025a; DeepSeek-AI,
+2024; MiniMax, 2025; Qwen, 2025) have advanced general capabilities, this core architectural
+inefficiency in handling ultra-long sequences remains a key impediment, limiting further gains
+from test-time scaling and hindering further exploration into long-horizon scenarios and tasks.
+In order to break the efficiency barrier in ultra-long contexts, we develop the DeepSeek-V4
+series, including the preview versions of DeepSeek-V4-Pro with 1.6T parameters (49B activated)
+and DeepSeek-V4-Flash with 284B parameters (13B activated). Through architectural innova-
+tions, DeepSeek-V4 series achieve a dramatic leap in computational efficiency for processing
+ultra-long sequences. This breakthrough enables efficient support for a context length of one
+million tokens, ushering in a new era of million-length contexts for next-generation LLMs. We
+believe our capability to efficiently handle ultra-long sequences unlocks the next frontier of
+test-time scaling, paves the way for deeper research into long-horizon tasks, and establishes a
+necessary foundation for exploring future paradigms like online learning.
+Compared with the DeepSeek-V3 architecture (DeepSeek-AI, 2024), DeepSeek-V4 series
+retain the DeepSeekMoE framework (Dai et al., 2024) and Multi-Token Prediction (MTP) strategy,
+while introducing several key innovations in architecture and optimization. To enhance long-
+context efficiency, we design a hybrid attention mechanism combining Compressed Sparse
+Attention (CSA) and Heavily Compressed Attention (HCA). CSA compresses the KV caches
+along the sequence dimension and then performs DeepSeek Sparse Attention (DSA) (DeepSeek-
+AI, 2025), whereas HCA applies more aggressive compression to the KV caches but keeps
+dense attention. To strengthen modeling capability, we incorporate Manifold-Constrained
+Hyper-Connections (mHC) (Xie et al., 2026) that upgrade conventional residual connections.
+Additionally, we introduce the Muon (Jordan et al., 2024; Liu et al., 2025) optimizer to the
+training of DeepSeek-V4 series, leading to faster convergence and improved training stability.
+To enable efficient training and inference for DeepSeek-V4 series as well as productive de-
+velopment, we introduce several infrastructure optimizations. First, we design and implement
+a single fused kernel for MoE modules that fully overlaps computation, communication, and
+memory access. Second, we employ TileLang (Wang et al., 2026), a Domain-Specific Language
+(DSL) to balance development productivity and runtime efficiency. Third, we provide efficient
+batch-invariant and deterministic kernel libraries to ensure bitwise reproducibility across train-
+ing and inference. Fourth, we incorporate FP4 quantization-aware training for MoE expert
+weights and the indexer QK path to reduce memory and computation. Fifth, for the training
+framework, we extend the autograd framework with tensor-level checkpointing for fine-grained
+recomputation control; and we enhance training efficiency with a hybrid ZeRO strategy for the
+Muon optimizer, cost-effective mHC implementations via recomputation and fused kernels, and
+two-stage contextual parallelism to manage compressed attention. Finally, for the inference
+framework, we design a heterogeneous KV cache structure with on-disk storage strategies to
+enable efficient shared-prefix reuse.
+4
+
+By employing hybrid CSA and HCA, along with precision optimizations on computation
+and storage, DeepSeek-V4 series achieve significantly lower inference FLOPs and a substantially
+reduced KV cache size compared with DeepSeek-V3.2, especially in long-context settings. The
+right part of Figure 1 demonstrates the estimated single-token inference FLOPs and accumulated
+KV cache size of DeepSeek-V3.2 and DeepSeek-V4 series. In the scenario of 1M-token context,
+even DeepSeek-V4-Pro, which has a larger number of activated parameters, attains only 27%
+of the single-token FLOPs (measured in equivalent FP8 FLOPs) and 10% of the KV cache
+size relative to DeepSeek-V3.2. Furthermore, DeepSeek-V4-Flash, with its smaller number of
+activated parameters, pushes efficiency even further: in the 1M-token context setting, it achieves
+only 10% of the single-token FLOPs and 7% of the KV cache size compared with DeepSeek-V3.2.
+Additionally, for DeepSeek-V4 series, the routed expert parameters utilize FP4 precision. While
+the peak FLOPs for FP4 × FP8 operations are currently the same as FP8 × FP8 on existing
+hardware, they can theoretically be implemented to be 1/3 more efficient on future hardware,
+which will further enhance the efficiency of DeepSeek-V4 series.
+During pre-training, we train DeepSeek-V4-Flash on 32T tokens and DeepSeek-V4-Pro on 33T
+tokens, respectively. After pre-training, these two models can natively and efficiently support
+1M-length contexts. In our internal evaluations, DeepSeek-V4-Flash-Base already surpasses
+DeepSeek-V3.2-Base across a majority of benchmarks with its more parameter-efficient design.
+DeepSeek-V4-Pro-Base further extends this advantage to set a new performance standard among
+DeepSeek foundation models, achieving comprehensive superiority across reasoning, coding,
+long-context, and world knowledge tasks.
+The post-training pipeline of DeepSeek-V4 series features a two-stage paradigm: the inde-
+pendent cultivation of domain-specific experts, followed by unified model consolidation via
+on-policy distillation (Lu and Lab, 2025). Initially, for each target domain — such as mathematics,
+coding, agent, and instruction following — a separate expert model is trained independently.
+The base model first undergoes Supervised Fine-Tuning (SFT) on high-quality, domain-specific
+data to establish foundational capabilities. Subsequently, Reinforcement Learning (RL) is ap-
+plied using Group Relative Policy Optimization (GRPO) (DeepSeek-AI, 2025), which further
+optimizes the model for domain-aligned behaviors guided by reward models tailored to specific
+success criteria. This phase yields a diverse set of specialized experts, each excelling in its
+respective field. Finally, to integrate these distinct proficiencies, a single unified model is trained
+through on-policy distillation, wherein the unified model acts as the student learning to optimize
+the reverse KL loss with teacher models.
+Summary of Core Evaluation Results
+• Knowledge: In assessments of broad world knowledge, DeepSeek-V4-Pro-Max, the maxi-
+mum reasoning effort mode of DeepSeek-V4-Pro, significantly outperforms leading open-
+source models on the SimpleQA (OpenAI, 2024d) and Chinese-SimpleQA (He et al., 2024)
+benchmarks. Regarding educational knowledge — evaluated via MMLU-Pro (Wang et al.,
+2024b), HLE (Phan et al., 2025), and GPQA (Rein et al., 2023) — DeepSeek-V4-Pro-Max
+shows a marginal lead over its open-source counterparts. DeepSeek-V4-Pro-Max has
+significantly closed the gap with the leading proprietary model, Gemini-3.1-Pro, despite
+still trailing it in these knowledge-based evaluations.
+• Reasoning: Through the expansion of reasoning tokens, DeepSeek-V4-Pro-Max demon-
+strates superior performance relative to GPT-5.2 and Gemini-3.0-Pro on standard reasoning
+benchmarks. Nevertheless, its performance falls marginally short of GPT-5.4 and Gemini-
+3.1-Pro, suggesting a developmental trajectory that trails state-of-the-art frontier models by
+approximately 3 to 6 months. Furthermore, DeepSeek-V4-Flash-Max achieves comparable
+5
+
+Input Tokens
+Embedding
+CSA / HCA
+Prediction Head
+MTP Modules
+LM Loss
+MTP Loss
+Residual Mixing
+Pre-Block Mixing
+Post-Block Mixing
+Transformer Block ×𝐿𝐿
+DeepSeekMoE
+Residual Mixing
+Pre-Block Mixing
+Post-Block Mixing
+Figure 2 | Overall architecture of DeepSeek-V4 series. We use hybrid CSA (Compressed Sparse
+Attention) and HCA (Heavily Compressed Attention) for attention layers, DeepSeekMoE for
+feed-forward layers, and strengthen conventional residual connections with mHC.
+performance to GPT-5.2 and Gemini-3.0-Pro, establishing itself as a highly cost-effective
+architecture for complex reasoning tasks.
+• Agent: On public benchmarks, DeepSeek-V4-Pro-Max is on par with leading open-source
+models, such as Kimi-K2.6 and GLM-5.1, but slightly worse than frontier closed models.
+In our internal evaluation, DeepSeek-V4-Pro-Max outperforms Claude Sonnet 4.5 and
+approaches the level of Opus 4.5.
+• Long-Context: DeepSeek-V4-Pro-Max delivers strong results on synthetic and real use
+cases with a 1-million-token context window, surpassing even Gemini-3.1-Pro on academic
+benchmarks.
+• DeepSeek-V4-Pro v.s. DeepSeek-V4-Flash: DeepSeek-V4-Flash-Max exhibits lower per-
+formance in knowledge evaluations due to its smaller parameter scale. However, it
+achieves comparable results on reasoning tasks when allocated a larger thinking bud-
+get. In agent evaluations, while DeepSeek-V4-Flash-Max matches the performance of
+DeepSeek-V4-Pro-Max on several benchmarks, it still trails its larger counterpart on more
+complex, high-difficulty tasks.
+2. Architecture
+Overall, DeepSeek-V4 series retain the Transformer (Vaswani et al., 2017) architecture and Multi-
+Token Prediction (MTP) modules (DeepSeek-AI, 2024; Gloeckle et al., 2024), while introducing
+several key upgrades over DeepSeek-V3: (1) firstly, we introduce the Manifold-Constrained
+Hyper-Connections (mHC) (Xie et al., 2026) to strengthen conventional residual connections;
+6
+
+(2) secondly, we design a hybrid attention architecture, which greatly improves long-context
+efficiency through Compressed Sparse Attention and Heavily Compressed Attention. (3) thirdly,
+we employ Muon (Jordan et al., 2024; Liu et al., 2025) as the optimizer. For the Mixture-of-
+Experts (MoE) components, we still adopt the DeepSeekMoE (Dai et al., 2024) architecture, with
+only minor adjustments from DeepSeek-V3. The Multi-Token Prediction (MTP) (DeepSeek-AI,
+2024; Gloeckle et al., 2024; Li et al., 2024; Qi et al., 2020) configuration remains identical to
+that of DeepSeek-V3. All other unspecified details follow the settings established in DeepSeek-
+V3 (DeepSeek-AI, 2024). Figure 2 illustrates the overall architecture of DeepSeek-V4, and the
+details are described below.
+2.1. Designs Inherited from DeepSeek-V3
+Mixture-of-Experts.
+As previous DeepSeek-series models (DeepSeek-AI, 2024; DeepSeek-AI,
+2024), DeepSeek-V4 series also adopt the DeepSeekMoE paradigm (Dai et al., 2024) for Feed-
+Forward Networks (FFNs), which sets fine-grained routed experts and shared experts. Different
+from DeepSeek-V3, we change the activation function that computes the affinity scores from
+Sigmoid(·) into Sqrt(Softplus(·)). For load balancing, we also employ the auxiliary-loss-free
+strategy (DeepSeek-AI, 2024; Wang et al., 2024a), augmented by a slight sequence-wise balance
+loss that prevents extreme imbalance within individual sequences. For DeepSeek-V4, we remove
+the constraint on the number of routing target nodes, and carefully redesign the parallelism
+strategy to maintain training efficiency. Furthermore, compared with DeepSeek-V3, we replace
+the dense FFN layers in the initial several Transformer blocks with MoE layers that employ
+Hash routing (Roller et al., 2021). The Hash routing strategy determines the target experts of
+each token according to a predefined hash function with regard to the input token ID.
+Multi-Token Prediction.
+As DeepSeek-V3, DeepSeek-V4 series also set MTP modules and
+objectives. Given that the MTP strategy has been validated in DeepSeek-V3, we adopt the same
+strategy for DeepSeek-V4 series without modification.
+2.2. Manifold-Constrained Hyper-Connections
+As shown in Figure 2, DeepSeek-V4 series incorporate Manifold-Constrained Hyper-Connections
+(mHC) (Xie et al., 2026) to strengthen the conventional residual connections between adjacent
+Transformer blocks. Compared with naive Hyper-Connections (HC) (Zhu et al., 2025), the core
+idea of mHC is to constrain the residual mapping onto a specific manifold, and thus enhance the
+stability of signal propagation across layers while preserving model expressivity. This subsection
+briefly introduces the standard HC and describes how we design mHC for stable training.
+Standard Hyper-Connections.
+The standard HC expands the width of the residual stream
+by a factor of 𝑛hc. Specifically, the shape of the residual stream is expanded from R𝑑to R𝑛hc×𝑑,
+where 𝑑is the hidden size of the actual layer input. Let 𝑋𝑙= [x𝑙,1; . . . ; x𝑙,𝑛hc]𝑇∈R𝑛hc×𝑑be the
+residual state before the 𝑙-th layer. HC introduces three linear mappings: an input mapping
+𝐴𝑙∈R1×𝑛hc, a residual transformation 𝐵𝑙∈R𝑛hc×𝑛hc, and an output mapping 𝐶𝑙∈R𝑛hc×1. The
+update of the residual state is then formulated as:
+𝑋𝑙+1 = 𝐵𝑙𝑋𝑙+ 𝐶𝑙F𝑙(𝐴𝑙𝑋𝑙),
+(1)
+where F𝑙denotes the 𝑙-th layer (e.g., an MoE layer), whose input and output shapes are both
+R𝑑. Note that the actual layer input 𝐴𝑙𝑋𝑙∈R𝑑is also 𝑑-dimensional, so the expanded residual
+7
+
+width does not influence the design of the inner layers. HC decouples the residual width from
+the actual hidden size, offering a complementary scaling axis with minimal computational
+overhead, as 𝑛hc is typically much smaller than the hidden size 𝑑. However, even though HC
+has demonstrated potential in improving model performance, we find that the training will
+frequently exhibit numerical instability when stacking multiple layers, which hinders the scaling
+of HC.
+Manifold-Constrained Residual Mapping.
+The core innovation of mHC is to constrain the
+residual mapping matrix 𝐵𝑙to the manifold of doubly stochastic matrices (the Birkhoff polytope)
+M, and thus enhance the stability of signal propagation across layers:
+𝐵𝑙∈M ≔{𝑀∈R𝑛×𝑛| 𝑀1𝑛= 1𝑛, 1𝑇
+𝑛𝑀= 1𝑇
+𝑛, 𝑀⩾0}.
+(2)
+This constraint ensures that the spectral norm of the mapping matrix ∥𝐵𝑙∥2 is bounded by 1, so
+the residual transformation is non-expansive, which increases the numerical stability during both
+the forward pass and backpropagation. Besides, the set M is closed under multiplication, which
+guarantees stability in the scenarios of deep stacks of mHC. In addition, the input transformation
+𝐴𝑙and output transformation 𝐶𝑙are also constrained to be non-negative and bounded via a
+Sigmoid function to avoid the risk of signal cancellation.
+Dynamic Parameterization.
+The parameters of three linear mappings are dynamically gen-
+erated, which are decomposed into a dynamic (input-dependent) component and a static
+(input-independent) component. Given the input 𝑋𝑙∈R𝑛hc×𝑑, it is first flattened and normal-
+ized: ˆ𝑋𝑙= RMSNorm(vec(𝑋𝑙)) ∈R1×𝑛hc𝑑. Then, we follow the conventional HC to generate the
+unconstrained raw parameters ˜𝐴𝑙∈R1×𝑛hc, ˜𝐵𝑙∈R𝑛hc×𝑛hc, and ˜𝐶𝑙∈R𝑛hc×1:
+˜𝐴𝑙= 𝛼pre
+𝑙
+· ( ˆ𝑋𝑙𝑊pre
+𝑙
+) + 𝑆pre
+𝑙
+,
+(3)
+˜𝐵𝑙= 𝛼res
+𝑙
+· Mat( ˆ𝑋𝑙𝑊res
+𝑙
+) + 𝑆res
+𝑙
+,
+(4)
+˜𝐶𝑙= 𝛼post
+𝑙
+· ( ˆ𝑋𝑙𝑊post
+𝑙
+)𝑇+ 𝑆post
+𝑙
+,
+(5)
+where 𝑊pre
+𝑙
+,𝑊post
+𝑙
+∈R𝑛hc𝑑×𝑛hc and 𝑊res
+𝑙
+∈R𝑛hc𝑑×𝑛2
+hc are learnable parameters for generating the
+dynamic components; Mat(·) reshapes a vector of size 1 × 𝑛2
+hc into a matrix of size 𝑛hc × 𝑛hc;
+𝑆pre
+𝑙
+∈R1×𝑛hc, 𝑆post
+𝑙
+∈R𝑛hc×1, and 𝑆res
+𝑙
+∈R𝑛hc×𝑛hc are learnable static biases; and 𝛼pre
+𝑙
+, 𝛼res
+𝑙, 𝛼post
+𝑙
+∈R
+are learnable gating factors initialized to small values.
+Applying Parameter Constraints.
+After obtaining the unconstrained raw parameters ˜𝐴𝑙, ˜𝐵𝑙, ˜𝐶𝑙,
+we then apply constraints described earlier to them to enhance the numerical stability. To be
+specific, for the input and output mappings, we employ a Sigmoid function 𝜎(·) to ensure their
+non-negativity and boundedness:
+𝐴𝑙= 𝜎( ˜𝐴𝑙),
+(6)
+𝐶𝑙= 2𝜎( ˜𝐶𝑙).
+(7)
+As for the residual mapping ˜𝐵𝑙, we project it onto the manifold of doubly stochastic matrices M.
+This is achieved by the Sinkhorn-Knopp algorithm, which first applies an exponential function
+to ˜𝐵𝑙to ensure positivity, getting 𝑀(0) = exp( ˜𝐵𝑙), and then iteratively performs column and row
+normalization:
+𝑀(𝑡) = T𝑟(T𝑐(𝑀(𝑡−1))),
+(8)
+where T𝑟and T𝑐denote row and column normalization, respectively. This iteration converges to
+a constrained doubly stochastic matrix 𝐵𝑙= 𝑀(𝑡max). We choose 𝑡max = 20 as a practical value.
+8
+
+…
+Hidden States of KV Tokens
+…
+Compressed 
+Indexer Keys
+Hidden State of Query Token
+Multi-Query 
+Attention
+Compressed 
+KV Entries
+…
+Top-k
+Selector
+Selected 
+Compressed
+KV Entries
+…
+Shared Key-Value Multi-Query Attention
+Indexer Queries
+Queries
+Sliding Window
+KV Entries
+Concatenation
+Token-Level
+Compressor
+…
+Token-Level
+Compressor
+Lightning Indexer
+Index Scores
+Figure 3 | Core architectures of CSA. It compresses the number of KV entries to 1
+𝑚times, and
+then applies DeepSeek Sparse Attention for further acceleration. Additionally, a small set of
+sliding window KV entries is combined with the selected compressed KV entries to enhance
+local fine-grained dependencies.
+2.3. Hybrid Attention with CSA and HCA
+As the context length reaches extreme scales, the attention mechanism emerges as the dominant
+computational bottleneck in a model. For DeepSeek-V4, we design two efficient attention
+architectures — Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA)
+— and employ their interleaved hybrid configuration, which substantially reduces the compu-
+tational cost of attention in long-text scenarios. CSA integrates both compression and sparse
+attention strategies: it first compresses the Key-Value (KV) cache of every 𝑚tokens into one
+entry, and then applies DeepSeek Sparse Attention (DSA) (DeepSeek-AI, 2025) where each query
+token attends to only 𝑘compressed KV entries. HCA aims for extreme compression by consol-
+idating the KV cache of every 𝑚′ (≫𝑚) tokens into a single entry. The hybrid architecture of
+CSA and HCA remarkably improves the long-context efficiency of DeepSeek-V4 series, making
+one-million-token context feasible in practice. This subsection describes the core techniques
+of our hybrid attention architecture, and we also provide an open-source implementation1 to
+specify more details unambiguously.
+2.3.1. Compressed Sparse Attention
+The core architecture of CSA is illustrated in Figure 3, which first compresses the KV cache of each
+𝑚tokens into one entry, and then applies DeepSeek Sparse Attention for further acceleration.
+Compressed Key-Value Entries.
+Let 𝐻∈R𝑛×𝑑be a sequence of input hidden states, where
+𝑛is the sequence length and 𝑑is the hidden size. CSA first computes two series of KV entries
+𝐶𝑎, 𝐶𝑏∈R𝑛×𝑐and their corresponding compression weights 𝑍𝑎, 𝑍𝑏∈R𝑛×𝑐, where 𝑐is the head
+1https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/tree/main/inference
+9
+
+dimension:
+𝐶𝑎= 𝐻· 𝑊𝑎𝐾𝑉,
+𝐶𝑏= 𝐻· 𝑊𝑏𝐾𝑉,
+(9)
+𝑍𝑎= 𝐻· 𝑊𝑎𝑍,
+𝑍𝑏= 𝐻· 𝑊𝑏𝑍,
+(10)
+where 𝑊𝑎𝐾𝑉,𝑊𝑏𝐾𝑉,𝑊𝑎𝑍,𝑊𝑏𝑍∈R𝑑×𝑐are trainable parameters. Next, each 𝑚KV entries in 𝐶𝑎and
+𝐶𝑏will be compressed into one entry according to their compression weights and learnable
+positional biases 𝐵𝑎, 𝐵𝑏∈R𝑚×𝑐, producing 𝐶Comp ∈R
+𝑛
+𝑚×𝑐. Each compressed entry 𝐶Comp
+𝑖
+∈R𝑐is
+computed by
+[𝑆𝑎
+𝑚𝑖:𝑚(𝑖+1)−1; 𝑆𝑏
+𝑚(𝑖−1):𝑚𝑖−1] = Softmaxrow([𝑍𝑎
+𝑚𝑖:𝑚(𝑖+1)−1 + 𝐵𝑎; 𝑍𝑏
+𝑚(𝑖−1):𝑚𝑖−1 + 𝐵𝑏]),
+(11)
+𝐶Comp
+𝑖
+=
+𝑚(𝑖+1)−1
+∑︁
+𝑗=𝑚𝑖
+𝑆𝑎
+𝑗⊙𝐶𝑎
+𝑗+
+𝑚𝑖−1
+∑︁
+𝑗=𝑚(𝑖−1)
+𝑆𝑏
+𝑗⊙𝐶𝑏
+𝑗,
+(12)
+where ⊙denotes the Hadamard product; Softmaxrow(·) denotes the softmax operation along
+the row dimension, which performs normalization across the total of 2𝑚elements from both
+𝑍𝑎and 𝑍𝑏. When 𝑖= 0, 𝑍𝑏
+𝑚(𝑖−1):𝑚𝑖−1 is padded with negative infinity and 𝐶𝑏
+𝑚(𝑖−1):𝑚𝑖−1 is padded
+with zeros. Note that each 𝐶Comp
+𝑖
+is derived from 2𝑚KV entries, but the indexes of 𝐶𝑏used for
+𝐶Comp
+𝑖
+and the indexes of 𝐶𝑎used for 𝐶Comp
+𝑖−1
+are overlapped. Therefore, CSA in fact compresses
+the sequence length to 1
+𝑚times.
+Lightning Indexer for Sparse Selection.
+After obtaining the compressed KV entries 𝐶Comp,
+CSA applies the DSA strategy to select top-k compressed KV entries for core attention. First,
+CSA performs the same compression operation used for 𝐶Comp to get compressed indexer keys
+𝐾IComp ∈R
+𝑛
+𝑚×𝑐𝐼, where 𝑐𝐼is the indexer head dimension. Then, for a query token 𝑡, we produce
+the indexer queries {q𝐼
+𝑡,1; q𝐼
+𝑡,2; ...; q𝐼
+𝑡,𝑛𝐼
+ℎ} in a low-rank manner:
+c𝑄
+𝑡= h𝑡· 𝑊𝐷𝑄,
+(13)
+[q𝐼
+𝑡,1; q𝐼
+𝑡,2; ...; q𝐼
+𝑡,𝑛𝐼
+ℎ] = q𝐼
+𝑡= c𝑄
+𝑡· 𝑊𝐼𝑈𝑄,
+(14)
+where h𝑡∈R𝑑is the input hidden state of the query token 𝑡; c𝑄
+𝑡
+∈R𝑑𝑐is the compressed
+latent vector for queries; 𝑑𝑐denotes the query compression dimension; 𝑛𝐼
+ℎdenotes the number
+of indexer query heads; 𝑊𝐷𝑄∈R𝑑×𝑑𝑐and 𝑊𝐼𝑈𝑄∈R𝑑𝑐×𝑐𝐼𝑛𝐼
+ℎare the down-projection and up-
+projection matrices for indexer queries, respectively. Next, the index score 𝐼𝑡,𝑠∈R between the
+query token 𝑡and a preceding compressed block 𝑠(𝑠< Floor( 𝑡
+𝑚)) is computed by
+[𝑤𝐼
+𝑡,1; 𝑤𝐼
+𝑡,2; ...; 𝑤𝐼
+𝑡,𝑛𝐼
+ℎ] = w𝐼
+𝑡= h𝑡· 𝑊𝑤,
+(15)
+𝐼𝑡,𝑠=
+𝑛𝐼
+ℎ
+∑︁
+ℎ=1
+𝑤𝐼
+𝑡,ℎ· ReLU
+
+q𝐼
+𝑡,ℎ· 𝐾IComp
+𝑠
+
+,
+(16)
+where 𝑊𝑤∈R𝑑×𝑛𝐼
+ℎis a learnable matrix; 𝑤𝐼
+𝑡,ℎ∈R is the weight of the ℎ-th indexer head. For a
+query token 𝑡, given its index scores 𝐼𝑡,:, we employ a top-k selector to selectively retain a subset
+of compressed KV entries CSprsComp
+𝑡
+for subsequent core attention:
+CSprsComp
+𝑡
+=
+n
+𝐶Comp
+𝑠
+ 𝐼𝑡,𝑠∈Top-k(𝐼𝑡,:)
+o
+.
+(17)
+10
+
+…
+Hidden States of KV Tokens
+…
+Hidden State of Query Token
+Heavily
+Compressed 
+KV Entries
+Shared Key-Value Multi-Query Attention
+Queries
+Sliding Window
+KV Entries
+Concatenation
+Token-Level
+Compressor
+Figure 4 | Core architectures of HCA. It performs heavier compression, where the KV entries of
+𝑚′ (≫𝑚) tokens will be consolidated into one. Also, we additionally introduce a small set of
+sliding window KV entries to enhance local fine-grained dependencies.
+Shared Key-Value MQA.
+After selecting the sparse KV entries, CSA then performs core
+attention in a Multi-Query Attention (MQA) (Shazeer, 2019) manner, where each compressed
+KV entry in CSprsComp
+𝑡
+serves as both attention key and value. To be specific, for a query token 𝑡,
+we first produce attention queries {q𝑡,1; q𝑡,2; ...; q𝑡,𝑛ℎ} from the compressed latent vector c𝑄
+𝑡:
+[q𝑡,1; q𝑡,2; ...; q𝑡,𝑛ℎ] = q𝑡= c𝑄
+𝑡· 𝑊𝑈𝑄,
+(18)
+where 𝑛ℎdenotes the number of query heads; 𝑊𝑈𝑄∈R𝑑𝑐×𝑐𝑛ℎis the up-projection matrices for
+queries. Note that the latent query vector c𝑄
+𝑡is shared with that used for the indexer queries.
+Next, we perform MQA on {q𝑡,𝑖} and CSprsComp
+𝑡
+:
+o𝑡,𝑖= CoreAttn
+
+query=q𝑡,𝑖, key=CSprsComp
+𝑡
+, value=CSprsComp
+𝑡
+
+,
+(19)
+where o𝑡,𝑖∈R𝑐is the core attention output of the 𝑖-th head at the 𝑡-th token; CoreAttn(·) denotes
+the core attention operation.
+Grouped Output Projection.
+In the configuration of DeepSeek-V4, 𝑐𝑛ℎis quite large. Therefore,
+dire9:[["$","$L14",null,{"dates":["2026-08-11","2026-08-10","2026-08-07","2026-08-06","2026-08-05","2026-08-04","2026-08-03","2026-07-31","2026-07-30","2026-07-29","2026-07-28","2026-07-27","2026-07-24","2026-07-23","2026-07-22","2026-07-21","2026-07-20","2026-07-17","2026-07-16","2026-07-15","2026-07-14","2026-07-13","2026-07-10","2026-07-09","2026-07-08","2026-07-07","2026-07-06","2026-07-03","2026-07-02","2026-07-01","2026-06-30","2026-06-29","2026-06-26","2026-06-25","2026-06-24","2026-06-23","2026-06-22","2026-06-19","2026-06-18","2026-06-17","2026-06-16","2026-06-15","2026-06-13","2026-06-12","2026-06-11","2026-06-10","2026-06-09","2026-06-08","2026-06-05","2026-06-04","2026-06-03","2026-06-02","2026-06-01","2026-05-29","2026-05-28","2026-05-27","2026-05-26","2026-05-25","2026-05-22","2026-05-21","2026-05-20","2026-05-19","2026-05-18","2026-05-16","2026-05-15","2026-05-14","2026-05-13","2026-05-12","2026-05-11","2026-05-10","2026-05-08","2026-05-07","2026-05-06","2026-05-05","2026-05-04","2026-05-01","2026-04-30","2026-04-29","2026-04-28","2026-04-27","2026-04-24","2026-04-23","2026-04-22","2026-04-21","2026-04-20","2026-04-17","2026-04-16","2026-04-15","2026-04-14","2026-04-13"],"weeks":[{"week":"2026-W33","dateRange":"08-10 ~ 08-11","days":["2026-08-10","2026-08-11"]},{"week":"2026-W32","dateRange":"08-03 ~ 08-07","days":["2026-08-03","2026-08-04","2026-08-05","2026-08-06","2026-08-07"]},{"week":"2026-W31","dateRange":"07-27 ~ 07-31","days":["2026-07-27","2026-07-28","2026-07-29","2026-07-30","2026-07-31"]},{"week":"2026-W30","dateRange":"07-20 ~ 07-24","days":["2026-07-20","2026-07-21","2026-07-22","2026-07-23","2026-07-24"]},{"week":"2026-W29","dateRange":"07-13 ~ 07-17","days":["2026-07-13","2026-07-14","2026-07-15","2026-07-16","2026-07-17"]},{"week":"2026-W28","dateRange":"07-06 ~ 07-10","days":["2026-07-06","2026-07-07","2026-07-08","2026-07-09","2026-07-10"]},{"week":"2026-W27","dateRange":"06-29 ~ 07-03","days":["2026-06-29","2026-06-30","2026-07-01","2026-07-02","2026-07-03"]},{"week":"2026-W26","dateRange":"06-22 ~ 06-26","days":["2026-06-22","2026-06-23","2026-06-24","2026-06-25","2026-06-26"]},{"week":"2026-W25","dateRange":"06-15 ~ 06-19","days":["2026-06-15","2026-06-16","2026-06-17","2026-06-18","2026-06-19"]},{"week":"2026-W24","dateRange":"06-08 ~ 06-13","days":["2026-06-08","2026-06-09","2026-06-10","2026-06-11","2026-06-12","2026-06-13"]},{"week":"2026-W23","dateRange":"06-01 ~ 06-05","days":["2026-06-01","2026-06-02","2026-06-03","2026-06-04","2026-06-05"]},{"week":"2026-W22","dateRange":"05-25 ~ 05-29","days":["2026-05-25","2026-05-26","2026-05-27","2026-05-28","2026-05-29"]},{"week":"2026-W21","dateRange":"05-18 ~ 05-22","days":["2026-05-18","2026-05-19","2026-05-20","2026-05-21","2026-05-22"]},{"week":"2026-W20","dateRange":"05-11 ~ 05-16","days":["2026-05-11","2026-05-12","2026-05-13","2026-05-14","2026-05-15","2026-05-16"]},{"week":"2026-W19","dateRange":"05-04 ~ 05-10","days":["2026-05-04","2026-05-05","2026-05-06","2026-05-07","2026-05-08","2026-05-10"]},{"week":"2026-W18","dateRange":"04-27 ~ 05-01","days":["2026-04-27","2026-04-28","2026-04-29","2026-04-30","2026-05-01"]},{"week":"2026-W17","dateRange":"04-20 ~ 04-24","days":["2026-04-20","2026-04-21","2026-04-22","2026-04-23","2026-04-24"]},{"week":"2026-W16","dateRange":"04-13 ~ 04-17","days":["2026-04-13","2026-04-14","2026-04-15","2026-04-16","2026-04-17"]}]}],["$","main",null,{"className":"flex-1 overflow-y-auto","children":["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-8 sm:px-6 xl:max-w-6xl","children":[["$","nav",null,{"className":"mb-4 text-xs text-muted-foreground","children":[["$","$L15",null,{"href":"/","className":"hover:text-foreground","children":"Home"}],["$","span",null,{"className":"mx-1.5","children":"/"}],["$","span",null,{"className":"text-foreground","children":["tag · #","compressed-attention"]}]]}],["$","$L16",null,{"tag":"compressed-attention","initialRows":[{"paper":{"id":"2606.19348","title":"DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence","abstract":"We present a preview version of DeepSeek-V4 series, including two strong Mixture-of-Experts (MoE) language models -- DeepSeek-V4-Pro with 1.6T parameters (49B activated) and DeepSeek-V4-Flash with 284B parameters (13B activated) -- both supporting a context length of one million tokens. DeepSeek-V4 series incorporate several key upgrades in architecture and optimization: (1) a hybrid attention architecture that combines Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA) to ","starred":true,"priority":"p1","reading_tier":"must_read","source":"arxiv","sources":["arxiv"],"published_at":"2026-04-26T14:49:33Z","category_id":"llm_pretrain","cover_url":"/covers/2606_19348.png","hf_upvotes":0,"arxiv_categories":["cs.CL","cs.AI"],"summary":{"core_problem":"这篇工作要解决的不是单一的“长上下文支持”，而是更具体的三件事同时成立：第一，MoE 基座模型在百万 token 上下文下仍然保持可训练、可推理；第二，长上下文带来的注意力 FLOPs 与 KV cache 膨胀不能把 test-time scaling 的收益吃掉；第三，超长上下文能力不能靠后期补丁式扩窗，而要在预训练阶段原生建立。全文的主线很清楚：DeepSeek 认为 vanilla attention 的二次复杂度已经成为长链路推理、agent 工作流、跨文档分析的结构性瓶颈，因此 V4 不是简单把窗口拉长，而是围绕“1M context 下的效率—能力—稳定性”重做了一套基座 recipe，包括注意力、残差连接、优化器、训练框架和推理系统。","importance":"对预训练研究的意义主要有三层。第一，这是一个较完整的“超长上下文原生预训练”范式样本，不再把 long context 视为后训练或 RoPE 外插问题，而是把架构、优化器、并行和缓存设计一起纳入基座训练。第二，它给出了一个很明确的工程判断：在百万上下文场景里，真正限制 test-time scaling 的不只是模型参数量，而是单 token 推理 FLOPs、KV cache 体积、共享前缀复用方式，以及这些因素与 MoE 激活参数的耦合。第三，它把 Muon、mHC、压缩注意力、FP4 QAT 这些原本分散的技术点，组合成了一条可落地的训练路径。贡献量级上，这更像一次体系化 recipe 升级，而不是单点算法改良。对做 pretrain 的人，价值不在某一个模块绝对新，而在这些模块如何共同把 1M context 从“能跑”推进到“可大规模训练和服务”。","technical_approach":"$17","experiments":"文中最关键的数字有四组。第一，模型规模：DeepSeek-V4-Pro 为 1.6T 总参数、49B 激活参数；DeepSeek-V4-Flash 为 284B 总参数、13B 激活参数。第二，预训练 token：Flash 训练 32T token，Pro 训练 33T token，都是原生支持 1M context，而不是后续插值扩窗。第三，长上下文效率：在 1M token 场景下，V4-Pro 的单 token 推理 FLOPs 只有 DeepSeek-V3.2 的 27%，KV cache 只有 10%；V4-Flash 进一步降到 FLOPs 10%、KV cache 7%。这组数字是全文最有信息量的结果，因为它说明即便 Pro 的激活参数更多，长上下文路径仍然显著更省。第四，能力结果：作者称 Flash-Base 已在多数 benchmark 上超过 V3.2-Base，Pro-Base 则在 reasoning、coding、long-context、world knowledge 上全面领先 DeepSeek 既有 foundation models。摘要截断后，正文还能看到其后训练采用“两阶段：领域专家独立培养，再用 on-policy distillation 统一整合”的路线，先对数学、代码、agent、指令跟随分别做 SFT，再用 GRPO 类 RL 强化。若从实验解读看，最值得注意的不是单个 benchmark 分数，而是效率收益并没有明显以基础能力退化为代价。对长上下文模型，这一点比单纯扩窗更难做到。另一个值得留意的信号是 FP4 目前在现有硬件上峰值 FLOPs 未必优于 FP8×FP8，但作者明确指出未来硬件上理论上还可再提升约 1/3，这意味着他们在为下一代硬件共设计做铺垫。","reading_guide":"精读时建议按“问题—架构—系统—结果”四段看。先看 Introduction 和 Figure 1，抓住作者到底在优化什么：不是 abstract 的 1M context 标签，而是 1M 下的单 token FLOPs 与累计 KV cache。然后重点看混合注意力部分，尤其 CSA 与 HCA 各自压缩什么、在哪些路径上保留稀疏或稠密注意力、为什么需要两者并存。这里决定了 V4 的长上下文能力是不是建立在可接受的信息损失之上。接着看 mHC 与 Muon 的章节，判断它们在这个系统里是锦上添花还是训练稳定性的必要条件；如果正文有 loss curve、收敛速度或 spike 对比，这些图要细看。再往后看训练框架与 kernel 设计，这部分对做大规模预训练的人信息密度很高，尤其是 fused MoE kernel、tensor-level checkpointing、two-stage contextual parallelism、deterministic kernels。最后看长上下文效率图和 base model 对比表，重点不是绝对分数，而是“更低 FLOPs / 更小 cache / 更强 base capability”是否同时成立。若时间有限，至少要看 Figure 1、注意力设计章节、系统实现章节、以及 base/long-context 主结果表。值得深挖的点有三个：压缩注意力对预训练分布外长度泛化的影响；mHC 在超深 MoE 上是否改善梯度传播；Muon 在 30T+ token 规模下相对 AdamW 类优化器的稳定性边界。","authors_note":"DeepSeek 团队。正文可确认是 DeepSeek 系列基座模型的技术报告；当前给出的片段未完整列出作者名单，无法准确逐一确认。"},"summary_en":{"core_problem":"The paper is not merely about extending context length. It targets a stricter objective: making MoE foundation models trainable and deployable at one-million-token context while preserving base capability and avoiding the prohibitive inference cost of vanilla attention. The central claim is that quadratic attention has become a structural bottleneck for test-time scaling, long-horizon reasoning, agent workflows, and cross-document analysis. DeepSeek-V4 therefore redesigns the long-context stack at the pretraining level rather than treating long context as a post-hoc window extension trick.","importance":"Its value to pretraining research lies in turning ultra-long context into a full-stack pretraining problem. The contribution is less about a single novel module and more about a coherent recipe: compressed attention, residual-path redesign, optimizer choice, training kernels, parallelism strategy, and inference cache layout are all co-designed. That matters because million-token context is constrained not only by model size, but by per-token inference FLOPs, KV-cache growth, prefix reuse, and how these interact with MoE activation. For researchers working on foundation-model pretraining, this is a concrete example of how long-context capability can be made native to the base model instead of being patched in later.","technical_approach":"$18","experiments":"$19","reading_guide":"$1a","authors_note":"DeepSeek team. The available text clearly identifies this as a DeepSeek technical report for the V4 series, but the full author list is not visible in the provided content."},"recommendation":{"zh":"必须读；若 Muon+mHC 在 1.6T MoE 上消融干净，应立刻复现到内部长上下文训练 ablation。","en":"Must read; if the Muon+mHC ablations are clean at 1.6T MoE scale, they should go straight into internal long-context training ablations."},"metadata":{"institutions":["DeepSeek-AI"],"authors":["DeepSeek-AI","Anyi Xu","Bangcai Lin","Bing Xue","Bingxuan Wang","Bingzheng Xu","Bochao Wu","Bowei Zhang","Chaofan Lin","Chen Dong","Chenchen Ling","Chengda Lu","Chenggang Zhao","Chengqi Deng","Chengyu Hou","Chenhao Xu","Chenze Shao","Chong Ruan","Conner Sun","Damai Dai","Daya Guo","Dejian Yang","Deli Chen","Donghao Li","Dongjie Ji","Erhang Li","Fang Wei","Fangyun Lin","Fangzhou Yuan","Feiyu Xia","Fucong Dai","Guangbo Hao","Guanting Chen","Guoai Cao","Guolai Meng","Guowei Li","Han Yu","Han Zhang","Hanwei Xu","Hao Li","Haofen Liang","Haoling Zhang","Haoming Luo","Haoran Wei","Haotian Yuan","Haowei Zhang","Haowen Luo","Haoyu Chen","Haozhe Ji","Hengqing Zhang","Honghui Ding","Hongxuan Tang","Huanqi Cao","Huazuo Gao","Hui Qu","Hui Zeng","J Yang","JQ Zhu","Jia Luo","Jia Song","Jia Yu","Jialiang Huang","Jialu Cai","Jian Liang","Jiangting Zhou","Jiasheng Ye","Jiashi Li","Jiaxin Xu","Jiewen Hu","Jieyu Yang","Jin Chen","Jin Yan","Jingchang Chen","Jingli Zhou","Jingting Xiang","Jingyang Yuan","Jingyuan Cheng","Jingzi Zhou","Jinhua Zhu","Jiping Yu","Joseph Sun","Jun Ran","Junguang Jiang","Junjie Qiu","Junlong Li","Junmin Zheng","Junxiao Song","Kai Dong","Kaige Gao","Kang Guan","Kexing Zhou","Kezhao Huang","Kuai Yu","Lean Wang","Lecong Zhang","Lei Wang","Leyi Xia","Li Zhang","Liang Zhao","Lihua Guo","Lingxiao Luo","Linwang Ma","Linyan Zhu","Litong Wang","Liyu Cai","Liyue Zhang","Longhao Chen","MS Di","MY Xu","Max Mei","Miaojun Wang","Mingchuan Zhang","Minghua Zhang","Minghui Tang","Mingming Li","Mingxu Zhou","Minmin Han","Ning Wang","Panpan Huang","Panpan Wang","Peixin Cong","Peiyi Wang","Peng Zhang","Qiancheng Wang","Qihao Zhu","Qingyang Li","Qinyu Chen","Qiushi Du","Qiwei Jiang","Rui Tian","Ruifan Xu","Ruijie Lu","Ruiling Xu","Ruiqi Ge","Ruisong Zhang","Ruizhe Pan","Runji Wang","Runqian Chen","Runqiu Yin","Runxin Xu","Ruomeng Shen","Ruoyu Zhang","Ruyi Chen","SH Liu","Shanghao Lu","Shangmian Sun","Shangyan Zhou","Shanhuang Chen","Shaofei Cai","Shaoheng Nie","Shaoqing Wu","Shaoyuan Chen","Shengding Hu","Shengyu Liu","Shiqiang Hu","Shirong Ma","Shiyu Wang","Shuiping Yu","Shunfeng Zhou","Shuting Pan","Shuying Yu","Songyang Zhou","Tao Ni","Tao Yun","Tian Jin","Tian Pei","Tian Ye","Tianle Lin","Tianran Ji","Tianyi Cui","Tianyuan Yue","Tingting Yu","Tun Wang","W Zhang","WL Xiao","Wangding Zeng","Wei An","Weilin Zhao","Wen Liu","Wenfeng Liang","Wenjie Pang","Wenjing Luo","Wenjing Yao","Wenjun Gao","Wenkai Yang","Wenlve Huang","Wenqing Hou","Wentao Zhang","Wenting Ma","Xi Gao","Xiang He","Xiangwen Wang","Xianzu Wang","Xiao Bi","Xiaodong Liu","Xiaohan Wang","Xiaokang Chen","Xiaokang Zhang","Xiaotao Nie","Xiaowen Sun","Xiaoxiang Wang","Xin Cheng","Xin Liu","Xin Xie","Xingchao Liu","Xingchen Liu","Xingkai Yu","Xingyou Li","Xinyu Yang","Xinyu Zhang","Xu Chen","Xuanyu Wang","Xuecheng Su","Xueyin Chen","Xuheng Lin","Xuwei Fu","YC Yan","YQ Wang","YW Ma","Yanfeng Luo","Yang Zhang","Yanhong Xu","Yanru Ma","Yanwen Huang","Yao Li","Yao Li","Yao Xu","Yao Zhao","Yaofeng Sun","Yaohui Wang","Yi Qian","Yi Shao","Yi Yu","Yichao Zhang","Yifan Ding","Yifan Shi","Yijia Wu","Yiliang Xiong","Yiling Ma","Ying He","Ying Tang","Ying Zhou","Yingjia Luo","Yinmin Zhong","Yishi Piao","Yisong Wang","Yixiang Zhang","Yixiao Chen","Yixuan Tan","Yixuan Wei","Yiyang Ma","Yiyuan Liu","Yonglun Yang","Yongqiang Guo","Yongtong Wu","Yu Wu","YuKun Li","Yuan Cheng","Yuan Ou","Yuanfan Xu","Yuanhao Li","Yuduan Wang","Yuehan Yang","Yuer Xu","Yuhan Wu","Yuhao Meng","Yuheng Zou","Yukun Zha","Yunfan Xiong","Yupeng Chen","Yuping Lin","Yuqian Cao","Yuqian Wang","Yushun Zhang","Yuting Yan","Yutong Lin","Yuxian Gu","Yuxiang Luo","Yuxiang You","Yuxuan Liu","Yuxuan Zhou","Yuyang Zhou","Yuzhen Huang","ZF Wu","Zehao Wang","Zehua Zhao","Zehui Ren","Zekai Zhang","Zhangli Sha","Zhe Fu","Zhe Ju","Zhean Xu","Zhenda Xie","Zhengyan Zhang","Zheren Gao","Zhewen Hao","Zhibin Gou","Zhicheng Ma","Zhigang Yan","Zhihong Shao","Zhixian Huang","Zhixuan Chen","Zhiyu Wu","Zhizhou Ren","Zhongyu Wu","Zhuoshu Li","Zhuping Zhang","Zian Xu","Zihao Wang","Zihua Qu","Zihui Gu","Zijia Zhu","Zilin Li","Zipeng Zhang","Ziwei Xie","Ziyi Gao","Ziyi Wan","Zizheng Pan","Zongqing Yao"],"notable_authors":[],"tags":["DeepSeek-V4","MoE","long-context","Muon-optimizer","compressed-attention"],"links":{"arxiv":"https://arxiv.org/abs/2606.19348","pdf":"https://arxiv.org/pdf/2606.19348","github":null,"project":null,"source_url":null,"article":null}}},"date":"2026-06-22","category_id":"llm_pretrain","category_name":"LLM 预训练","category_emoji":"🧠"},{"paper":{"id":"inbox-pdf-d61d7c9398","title":"DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence","abstract":"$1b","authors":[],"source":"inbox:pdf","sources":["inbox"],"published":"","arxiv_categories":["cs.CL"],"arxiv_url":"","pdf_url":"","source_url":"https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf","is_article":true,"article_url":"https://api-docs.deepseek.com/news/news260424","metadata":{"institutions":["DeepSeek"],"authors":[],"notable_authors":["DeepSeek-AI"],"tags":["long-context","MoE","compressed-attention","optimizer","training-stability"],"venue":"","published":"2026-04-24","domains":[],"links":{"source_url":"https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf","article":"https://api-docs.deepseek.com/news/news260424","pdf":"https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/resolve/main/DeepSeek_V4.pdf"}},"_inbox_note":"@_user_1 /add-papers DeepSeek-V4 技术报告：","_inbox_sender":"ou_20e95546cadbb39ade7c1f94e4752f5c","_inbox_source_url":"https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf","_inbox_source_type":"pdf","_inbox_article_title":"DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence","_inbox_article_description":"$1c","_inbox_article_excerpt":"$1d","relevance_score":9,"priority":"p1","category_id":"llm_pretrain","reading_tier":"must_read","starred":true,"summary":{"core_problem":"这篇技术报告讨论的是：在超长上下文已经从展示能力走向日常可用之后，如何把百万 token 上下文做成一个训练、推理、成本三者都能成立的基座模型方案。核心关注点不是单点长上下文技巧，而是 MoE 架构、注意力压缩、残差连接改造、优化器与后训练如何一起支撑 1M context。","key_insights":"最值得记住的是三件事。第一，DeepSeek 把长上下文问题明确当成系统级预训练问题来做，而不是只靠 RoPE 外推或推理时工程补丁；CSA+HCA 的混合注意力直接瞄准单 token FLOPs 和 KV cache 两个主要瓶颈，报告里给出在 1M context 下相对 V3.2 约 27% FLOPs、10% KV cache 的量级。第二，mHC 和 Muon 被放在与注意力同等重要的位置，说明他们判断百万上下文的可用性不只是 inference efficiency，还取决于深层网络训练稳定性和收敛速度。第三，32T token 预训练加完整 post-training pipeline，配合 reasoning mode，表明长上下文能力已经被当成通用能力底座，而不是单独拉一条长文本 benchmark 曲线。","limits":"当前信息主要来自预览版技术报告，很多关键细节还不够展开，例如 CSA/HCA 的精确机制、不同长度区间的质量-成本折中、mHC 相对标准残差的独立增益、Muon 在这一规模下的稳定性边界，以及 1M context 是否真正转化为稳定的长程任务收益。基准图里也混合了预训练、后训练和推理 effort 的共同效果，暂时不容易拆出各模块的因果贡献。"},"summary_en":{"core_problem":"This report asks a practical pretraining question: how do you make million-token context a routine capability rather than a demo feature? The focus is not just context extension, but a full-stack recipe spanning MoE design, compressed attention, residual-path changes, optimizer choice, and post-training.","key_insights":"Three points matter. First, DeepSeek treats long context as a model-design problem, not merely a positional extrapolation trick. The CSA+HCA hybrid attention is aimed directly at the two real inference bottlenecks at 1M length: per-token FLOPs and KV cache, with reported reductions to roughly 27% FLOPs and 10% KV cache versus V3.2. Second, mHC and Muon are presented as core ingredients, which suggests the team sees long-context viability as tightly coupled to optimization stability and deep-network training dynamics, not just serving efficiency. Third, the combination of 32T-token pretraining and a substantial post-training stack indicates that long-context competence is being folded into the general-purpose model backbone rather than treated as a narrow benchmark specialization.","limits":"It is still a preview report, so several important pieces remain underspecified: the exact CSA/HCA mechanics, quality-cost tradeoffs across different context ranges, the standalone contribution of mHC over standard residual designs, and the stability envelope of Muon at this scale. The headline benchmark gains also mix pretraining, post-training, and reasoning-effort effects, so the causal contribution of each component is not yet cleanly isolated."},"recommendation":{"zh":"DeepSeek 把百万上下文当作系统级预训练问题来答，而不是推理期 hack：CSA+HCA 混合注意力直接压 FLOPs 和 KV cache，配合 mHC、Muon 与 32T token 预训练，是目前开源侧看长上下文基座最完整的一份作业，值得精读对照 V3.2 看每一项的增量。","en":"DeepSeek frames the million-token context as a pretraining-systems problem rather than an inference-time hack. The CSA+HCA hybrid attention attacks FLOPs and KV-cache directly, paired with mHC, Muon, and 32T-token pretraining — the most complete open-side blueprint for a long-context base model today, worth reading closely against V3.2 to isolate per-component gains."},"tags":["long-context","MoE","compressed-attention","optimizer","training-stability"],"institutions":["DeepSeek"],"notable_authors":["DeepSeek-AI"],"cover_url":"/covers/inbox-pdf-d61d7c9398.png","published_at":"2026-04-24"},"date":"2026-04-24","category_id":"llm_pretrain","category_name":"LLM 预训练","category_emoji":"🧠"}],"total":2,"hasMore":false,"dataUrl":null,"related":[{"tag":"benchmark","count":640},{"tag":"post-training","count":465},{"tag":"reinforcement-learning","count":360},{"tag":"evaluation","count":352},{"tag":"tool-use","count":350},{"tag":"long-context","count":342},{"tag":"reasoning","count":321},{"tag":"alignment","count":297},{"tag":"interpretability","count":288},{"tag":"rlvr","count":285},{"tag":"kv-cache","count":271},{"tag":"grpo","count":261},{"tag":"vlm","count":244},{"tag":"mechanistic-interpretability","count":243},{"tag":"inference-efficiency","count":239},{"tag":"coding-agent","count":233},{"tag":"multi-agent","count":227},{"tag":"mechanistic-analysis","count":217},{"tag":"agent-evaluation","count":215},{"tag":"rlhf","count":208},{"tag":"chain-of-thought","count":199},{"tag":"training-dynamics","count":152},{"tag":"video-generation","count":148},{"tag":"quantization","count":144},{"tag":"rag","count":140},{"tag":"credit-assignment","count":138},{"tag":"agent-memory","count":137},{"tag":"moe","count":135},{"tag":"hallucination","count":134},{"tag":"flow-matching","count":133}]}]]}]}]]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[27201,["/paper-daily-site/_next/static/chunks/08cykig6vtx_p.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0frujd.eyhz4o.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"IconMark"]
+c:null
+11:[["$","title","0",{"children":"#compressed-attention — Papers"}],["$","meta","1",{"name":"description","content":"All papers tagged #compressed-attention across the daily archive."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/paper-daily-site/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1e","4",{}]]
