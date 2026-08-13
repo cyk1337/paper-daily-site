@@ -1,3 +1,3 @@
 :HL["/paper-daily-site/_next/static/chunks/0m7mqu4bzx6nw.css","style"]
 :HL["/paper-daily-site/_next/static/chunks/0~7p81-4rj9i5.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ScUb5Vqysd5-rmtgvb0UB"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"lflssTw87C7-rsMkeKh8E"}
