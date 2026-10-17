@@ -2,4 +2,4 @@
 2:I[39756,["/paper-daily-site/_next/static/chunks/0oclx5ng_aqtn.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0-ie.vhf74qj8.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"default"]
 3:I[37457,["/paper-daily-site/_next/static/chunks/0oclx5ng_aqtn.js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0-ie.vhf74qj8.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"wcmy-QjGLilUNJlE2lou-"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"BaQ-Sqm8-h2lGD3ZBbyip"}
