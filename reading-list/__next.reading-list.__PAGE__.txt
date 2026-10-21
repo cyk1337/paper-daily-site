@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[97367,["/paper-daily-site/_next/static/chunks/0k3m1mxwvr8x..js","/paper-daily-site/_next/static/chunks/07qi2okp-.yp9.js","/paper-daily-site/_next/static/chunks/0acfy-3mj9oa_.js","/paper-daily-site/_next/static/chunks/0n4z.7yu76je-.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"myyse9HStk2B8nUwcWdv6"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7ufIhvYXuWKhTUiWrI87O"}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/favorites;307;"}
