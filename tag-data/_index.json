@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T14:16:37.021Z",
+  "generated_at": "2026-11-02T15:17:32.946Z",
   "page_size": 30,
   "total_tags": 19202,
   "overflow_tag_count": 361,
@@ -114,7 +114,7 @@
     "hallucination-mitigation": 37,
     "hidden-states": 42,
     "image-editing": 45,
-    "image-generation": 104,
+    "image-generation": 105,
     "in-context-learning": 205,
     "industry": 47,
     "inference": 80,
