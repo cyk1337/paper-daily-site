@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T00:02:05.783Z",
+  "generated_at": "2026-11-04T01:02:12.931Z",
   "page_size": 30,
-  "total_tags": 19320,
+  "total_tags": 19322,
   "overflow_tag_count": 361,
   "overflow": {
     "abstention": 50,
@@ -35,7 +35,7 @@
     "autoregressive": 31,
     "autoregressive-generation": 54,
     "autoregressive-modeling": 37,
-    "benchmark": 1217,
+    "benchmark": 1218,
     "benchmarking": 40,
     "bias": 41,
     "calibration": 198,
@@ -185,7 +185,7 @@
     "mixed-precision": 39,
     "mixture-of-experts": 104,
     "mllm": 190,
-    "model-compression": 158,
+    "model-compression": 159,
     "model-editing": 47,
     "model-merging": 74,
     "model-release": 34,
@@ -209,7 +209,7 @@
     "non-autoregressive": 68,
     "non-autoregressive-generation": 37,
     "on-policy": 45,
-    "on-policy-distillation": 193,
+    "on-policy-distillation": 195,
     "openai": 82,
     "optimal-transport": 47,
     "optimization": 86,
@@ -286,7 +286,7 @@
     "scaling-law": 37,
     "scaling-laws": 156,
     "scheduling": 38,
-    "scientific-discovery": 45,
+    "scientific-discovery": 46,
     "search-agent": 39,
     "security": 74,
     "self-consistency": 47,
@@ -348,7 +348,7 @@
     "unlearning": 48,
     "verification": 114,
     "verifier": 125,
-    "video-diffusion": 79,
+    "video-diffusion": 80,
     "video-generation": 274,
     "video-llm": 41,
     "video-understanding": 63,
@@ -365,6 +365,6 @@
     "watermarking": 38,
     "web-agent": 66,
     "world-model": 168,
-    "world-models": 170
+    "world-models": 171
   }
 }
