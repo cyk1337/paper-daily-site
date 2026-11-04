@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T08:16:38.649Z",
+  "generated_at": "2026-11-04T08:46:08.203Z",
   "page_size": 30,
-  "total_tags": 19493,
+  "total_tags": 19494,
   "overflow_tag_count": 365,
   "overflow": {
     "abstention": 50,
@@ -190,7 +190,7 @@
     "model-compression": 159,
     "model-editing": 47,
     "model-merging": 74,
-    "model-release": 34,
+    "model-release": 35,
     "model-routing": 36,
     "moe": 295,
     "multi-agent": 412,
