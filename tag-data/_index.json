@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T14:47:26.899Z",
+  "generated_at": "2026-11-04T00:02:05.783Z",
   "page_size": 30,
-  "total_tags": 19319,
+  "total_tags": 19320,
   "overflow_tag_count": 361,
   "overflow": {
     "abstention": 50,
@@ -17,7 +17,7 @@
     "agent-harness": 83,
     "agent-memory": 261,
     "agent-rl": 52,
-    "agent-safety": 161,
+    "agent-safety": 162,
     "agent-security": 71,
     "agent-systems": 61,
     "agent-training": 107,
