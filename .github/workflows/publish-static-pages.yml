@@ -1,0 +1,49 @@
+name: Publish static Pages
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['.github/**']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+      - name: Check publication size
+        run: |
+          python3 - <<'PY'
+          import os
+          from pathlib import Path
+          total = 0
+          for directory, dirs, files in os.walk('.'):
+              dirs[:] = [name for name in dirs if name not in ('.git', '.github')]
+              total += sum((Path(directory) / name).stat().st_size for name in files)
+          print(f'Publication bytes: {total}')
+          if total > 950_000_000:
+              raise SystemExit('Publication exceeds the 950 MB budget')
+          PY
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Publish verified static files
+        id: deployment
+        uses: actions/deploy-pages@v5
+        with:
+          timeout: 1800000
