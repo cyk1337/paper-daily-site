@@ -2,4 +2,4 @@
 2:I[339756,["/paper-daily-site/_next/static/chunks/0a__p0so0p7fp.js","/paper-daily-site/_next/static/chunks/02ksa2.wur220.js","/paper-daily-site/_next/static/chunks/06o76~~c9k-_u.js","/paper-daily-site/_next/static/chunks/0i.l9589uvx0j.js"],"default"]
 3:I[837457,["/paper-daily-site/_next/static/chunks/0a__p0so0p7fp.js","/paper-daily-site/_next/static/chunks/02ksa2.wur220.js","/paper-daily-site/_next/static/chunks/06o76~~c9k-_u.js","/paper-daily-site/_next/static/chunks/0i.l9589uvx0j.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"NTNj__Yw1MRfoznJ5-Yvg"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"fJAwoQiNGT8zmvJgAN0Ys"}
