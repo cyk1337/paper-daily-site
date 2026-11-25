@@ -1,10 +1,10 @@
 name: Publish static Pages
 
 # Production is published directly from the static main branch.
-# Actions gets one attempt monthly; static pushes use the branch publisher.
+# Automatic Actions requests are controlled in paper_daily, not this repo.
+# Static pushes use the branch publisher without a custom Actions run.
 on:
-  schedule:
-    - cron: "0 1 1 * *"
+  workflow_dispatch:
 
 permissions:
   contents: read
