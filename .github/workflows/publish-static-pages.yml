@@ -1,9 +1,8 @@
 name: Publish static Pages
 
+# Production is published directly from the static main branch.
+# Kept as an explicit manual fallback; static pushes must not start Actions.
 on:
-  push:
-    branches: [main]
-    paths-ignore: ['.github/**']
   workflow_dispatch:
 
 permissions:
