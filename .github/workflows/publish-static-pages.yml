@@ -1,9 +1,10 @@
 name: Publish static Pages
 
 # Production is published directly from the static main branch.
-# Kept as an explicit manual fallback; static pushes must not start Actions.
+# Actions gets one attempt monthly; static pushes use the branch publisher.
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "0 1 1 * *"
 
 permissions:
   contents: read
